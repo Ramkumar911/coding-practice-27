@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.logo {
+  height: 30px;
+  width: 80px;
+}
+.nav-cont {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.nav-items-cont {
+  display: flex;
+  align-items: center;
+}
+.home {
+  margin-right: 10px;
+}

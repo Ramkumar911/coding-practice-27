@@ -1,0 +1,54 @@
+/* Write your CSS code here */
+.log-logo {
+  height: 40px;
+  width: 120px;
+  align-self: center;
+  margin-bottom: 50px;
+}
+.input-label-cont {
+  margin-bottom: 20px;
+}
+.login-img {
+  height: 50%;
+  width: 40%;
+  margin-right: 40px;
+}
+.login-details {
+  height: 43%;
+  width: 20%;
+  padding: 40px;
+  padding-top: 80px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  margin-left: 30px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.login-page-cont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.input {
+  height: 35px;
+  width: 250px;
+  background-color: #d7dfe9;
+  border-width: 0px;
+  padding-left: 15px;
+  margin-top: 5px;
+}
+.label {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 700;
+}
+.login-button {
+  height: 39px;
+  width: 265px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  text-align: center;
+  border-width: 0px;
+  border-radius: 5px;
+}

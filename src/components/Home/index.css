@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.img-para-container {
+  display: flex;
+  width: 80%;
+}
+.clothes-img {
+  height: 250px;
+  width: 200px;
+}
+.home-container {
+  width: 90%;
+}
+.bg-container {
+  padding: 20px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 800;
+  color: #1e293b;
+}
+.para {
+  font-family: 'Roboto';
+  font-size: 17px;
+
+  color: #1e293b;
+}
